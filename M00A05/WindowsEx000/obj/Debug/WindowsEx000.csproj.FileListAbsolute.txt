@@ -1,0 +1,9 @@
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\bin\Debug\WindowsEx000.exe.config
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\bin\Debug\WindowsEx000.exe
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\bin\Debug\WindowsEx000.pdb
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.csproj.AssemblyReference.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.Form1.resources
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.csproj.GenerateResource.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.csproj.CoreCompileInputs.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.exe
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\M00A05\WindowsEx000\obj\Debug\WindowsEx000.pdb

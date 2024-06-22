@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53CAFFED-A2BA-48FE-BEEC-5C47710302FA}|WindowsEx000.csproj|C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53CAFFED-A2BA-48FE-BEEC-5C47710302FA}|WindowsEx000.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CAFFED-A2BA-48FE-BEEC-5C47710302FA}|WindowsEx000.csproj|c:\\users\\deyvi\\onedrive\\documentos\\curso de c# - estudonalta\\m00a05\\windowsex000\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CAFFED-A2BA-48FE-BEEC-5C47710302FA}|WindowsEx000.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:45:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\deyvi\\OneDrive\\Documentos\\Curso de C# - Estudonalta\\M00A05\\WindowsEx000\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:25:43.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

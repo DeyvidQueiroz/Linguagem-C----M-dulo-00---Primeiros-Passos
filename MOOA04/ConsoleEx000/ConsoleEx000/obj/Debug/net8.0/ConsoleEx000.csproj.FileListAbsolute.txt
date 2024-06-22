@@ -1,0 +1,14 @@
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.exe
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.deps.json
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.runtimeconfig.json
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.dll
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.pdb
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.AssemblyInfoInputs.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.AssemblyInfo.cs
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.dll
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\refint\ConsoleEx000.dll
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.pdb
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.genruntimeconfig.cache
+C:\Users\deyvi\OneDrive\Documentos\Curso de C# - Estudonalta\MOOA04\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ref\ConsoleEx000.dll
